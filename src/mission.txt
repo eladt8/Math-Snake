@@ -1,0 +1,6 @@
+primery
+mult,x
+sqr,x,y
+exercise,x,y
+divwhithcarry,x,y
+commondivider,x,y
